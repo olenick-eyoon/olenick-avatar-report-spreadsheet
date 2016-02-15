@@ -39,7 +39,7 @@
         <dependency>
             <groupId>com.olenick.avatar.icare2</groupId>
             <artifactId>icare2</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.3-SNAPSHOT2</version>
         </dependency>
         <dependency>
             <groupId>com.olenick.util.poi</groupId>
@@ -50,6 +50,26 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-csv</artifactId>
             <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.validation</groupId>
+            <artifactId>validation-api</artifactId>
+            <version>1.1.0.Final</version>
+        </dependency>
+        <dependency>
+            <groupId>com.olenick.avatar.icare2</groupId>
+            <artifactId>icare2</artifactId>
+            <version>1.0.3-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>3.11</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>3.11</version>
         </dependency>
     </dependencies>
 
